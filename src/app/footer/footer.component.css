@@ -1,0 +1,30 @@
+.container1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: chocolate;
+    height: 50px;
+}
+div{
+    display: flex;
+}
+
+button{
+    height: 35px;
+    width: 100px;
+    border-radius: 12px;
+    background-color: rgba(238, 232, 210, 0.781);
+    font-family: monospace;
+    font-size: 15px;
+    cursor: pointer;
+    font-weight: bold;
+    border: none;
+}
+
+input{
+    height: 35px;
+    border-radius: 15px;
+    background-color: rgb(238, 232, 210);
+    border: none;
+}
+
